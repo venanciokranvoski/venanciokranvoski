@@ -1,6 +1,6 @@
 ## Olá! Eu Sou Venancio Dumas
 
-- 👨‍💻 Hoje trabalho com React native | Mobile | QA Test | DevOps Engineer
+- 👨‍💻 Hoje trabalho com React native | Mobile | Developer Delphi
 - 🤷‍♀️ Apaixonado por Programação 
 - 🙋‍♂️ Codar Anywhere !!! 
   
