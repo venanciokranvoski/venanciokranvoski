@@ -1,7 +1,7 @@
-## Olá! Eu Sou Venancio Dumas
+## Hi I'm Venancio a poor mortal ready to code life into the cleanest possible algorithm
 
-- 👨‍💻 Hoje trabalho com React native | Mobile | Developer Delphi
-- 🤷‍♀️ Apaixonado por Programação 
+- 👨‍💻 Today working with React native | Mobile | Developer Delphi
+- 🤷‍♀️ Passionate about code
 - 🙋‍♂️ Codar Anywhere !!! 
   
   <div align="center">
