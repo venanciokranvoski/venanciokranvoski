@@ -1,11 +1,11 @@
-## Hi I'm Venancio a poor mortal ready to code life into the cleanest possible algorithm
+Hi, I'm Venancio Augusto 
+I’m a Developer Software. Every day in search of the Next Level
 
-- 👨‍💻 Today working with React native | Mobile | JavaScript
-- 🤷‍♀️ Passionate about code
-- 🙋‍♂️ Codar Anywhere !!! 
+-  My current tools
+-  📲 Front-end Mobile with React Native
+-  🌎 Front-end Web with React
+-  🛠️ Typescript.
 
-   <hr />
-   <br />
   
   <div align="center">
       <a href="https://github.com/venanciokranvoski">
