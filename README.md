@@ -15,22 +15,45 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venanciokranvoski&layout=compact&langs_count=7&theme=chartreuse-dark"/>
         
 
-# 💻 Tech Stack
+# 💻 Tech Stack - In the Front-End
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/docs.php)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
+[![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/pt/docs/handbook/utility-types.html)
+[![My Skills](https://skillicons.dev/icons?i=angular)](https://material.angularjs.org/)
+[![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
-    
+# 💻 Tech Stack - In the Back-End
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/docs/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/?hl=pt)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/pt-br/cloud/atlas/register)
+
+# 💻 Tech Stack - In the Mobile
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=swift)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
+
+# 💻 Tech Stack - In the unit Test
+[![My Skills](https://skillicons.dev/icons?i=jest)](https://jestjs.io/pt-BR/)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://testing-library.com/docs/react-testing-library/intro/)
+
+
+# 💻 Tech Stack - In the DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://www.sqlite.org/)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/pt-br/products/devops)
+![My Skills](https://skillicons.dev/icons?i=aws)
+
 
  <h3 align="left">Connect with me:</h3>
 
