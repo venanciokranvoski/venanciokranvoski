@@ -15,7 +15,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venanciokranvoski&layout=compact&langs_count=7&theme=chartreuse-dark"/>
         
 
-# 💻 Tech Stack - In the Front-End
+# 🛠️ In the Front-End
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -23,13 +23,14 @@
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/docs.php)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
 [![My Skills](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/pt/docs/handbook/utility-types.html)
 [![My Skills](https://skillicons.dev/icons?i=angular)](https://material.angularjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
-# 💻 Tech Stack - In the Back-End
+# 🛠️ In the Back-End 
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![My Skills](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/pt-br/dotnet/csharp/)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
@@ -39,17 +40,17 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/pt-br/cloud/atlas/register)
 
-# 💻 Tech Stack - In the Mobile
+# 🛠️ In the Mobile
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=swift)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactnative.dev/)
 
-# 💻 Tech Stack - In the unit Test
+# 🛠️ In the unit Test
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://jestjs.io/pt-BR/)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://testing-library.com/docs/react-testing-library/intro/)
 
 
-# 💻 Tech Stack - In the DevOps
+# 🛠️ In the DevOps
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.sqlite.org/)
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/pt-br/products/devops)
 ![My Skills](https://skillicons.dev/icons?i=aws)
